@@ -52,3 +52,21 @@
 
   display: block;
 }
+
+.user-component__info {
+  display: flex;
+  align-items: center;
+}
+
+.user-component__icon {
+  margin-top: 8px;
+  width: 10px;
+  height: 10px;
+  border: 1px solid red;
+  color: red;
+  border-radius: 50%;
+  font-size: 10px;
+  padding: 1px;
+  text-align: center;
+  margin-left: 5px;
+}
